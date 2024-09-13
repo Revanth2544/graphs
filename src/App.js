@@ -21,7 +21,7 @@ function App() {
         {/* Route for viewing graph details with dynamic :id */}
         <Route path="/view-graph/:id" element={<ViewGraph />} />
 
-        <Route path="/graphs" element={<GraphApp />} />
+        {/* <Route path="/graphs" element={<GraphApp />} /> */}
       </Routes>
     </Router>
   );
