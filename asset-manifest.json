@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Revanth2544/graph-project/static/css/main.e6c13ad2.css",
-    "main.js": "/Revanth2544/graph-project/static/js/main.a6675c46.js",
-    "static/js/453.c53f7119.chunk.js": "/Revanth2544/graph-project/static/js/453.c53f7119.chunk.js",
-    "index.html": "/Revanth2544/graph-project/index.html",
-    "main.e6c13ad2.css.map": "/Revanth2544/graph-project/static/css/main.e6c13ad2.css.map",
-    "main.a6675c46.js.map": "/Revanth2544/graph-project/static/js/main.a6675c46.js.map",
-    "453.c53f7119.chunk.js.map": "/Revanth2544/graph-project/static/js/453.c53f7119.chunk.js.map"
+    "main.css": "/graphs/static/css/main.e6c13ad2.css",
+    "main.js": "/graphs/static/js/main.c57d0a7b.js",
+    "static/js/453.c53f7119.chunk.js": "/graphs/static/js/453.c53f7119.chunk.js",
+    "index.html": "/graphs/index.html",
+    "main.e6c13ad2.css.map": "/graphs/static/css/main.e6c13ad2.css.map",
+    "main.c57d0a7b.js.map": "/graphs/static/js/main.c57d0a7b.js.map",
+    "453.c53f7119.chunk.js.map": "/graphs/static/js/453.c53f7119.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.a6675c46.js"
+    "static/js/main.c57d0a7b.js"
   ]
 }
